@@ -1,0 +1,4 @@
+Variables:  a variable is a value that can change, depending on conditions or on information passed to the program.
+Functions:  a function is a body of code that returns a value. The value returned may depend on arguments provided to the function.
+Loops:      a while loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition.
+Conditionals: 
